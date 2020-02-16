@@ -1,0 +1,9 @@
+server:
+  port: 31001
+spring:
+  application:
+    name: nm-service-manage-cms
+  data:
+    mongodb:
+      uri: mongodb://localhost
+      database: nm_cms
